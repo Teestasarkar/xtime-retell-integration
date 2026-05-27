@@ -1,0 +1,1 @@
+{"success":true,"booking":{"appointmentId":"MOCK-APPT-12345","status":"confirmed","service":"Oil Change"},"xtimeResponse":{"status":200,"rawResponse":"{\"message\":\"HTTP 500 Internal Server Error\",\"statusCode\":1,\"success\":false}"}}
